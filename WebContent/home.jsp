@@ -1,3 +1,4 @@
+<%@page import="com.epam.Person"%>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
@@ -54,7 +55,8 @@
                                                 <span class="icon-bar"></span>
                                             </button>
                                             <a class="navbar-brand" href="#home">
-                                                <img src="assets/images/logo.png"/>
+<!--                                                 <img src="assets/images/logo.png"/> -->
+													   <li><a href="#home">Saurabh</a></li>
                                             </a>
                                         </div>
 

@@ -1,4 +1,4 @@
-package com.dac;
+package com.epam;
 
 public class Person {
 	String name;
